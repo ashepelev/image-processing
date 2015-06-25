@@ -1,0 +1,18 @@
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\bin\Debug\Indiv1.exe.config
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\obj\Debug\Indiv1.Form1.resources
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\obj\Debug\Indiv1.Properties.Resources.resources
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\obj\Debug\Indiv1.csproj.GenerateResource.Cache
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\bin\Debug\Indiv1.exe
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\bin\Debug\Indiv1.pdb
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\obj\Debug\Indiv1.exe
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\obj\Debug\Indiv1.pdb
+c:\users\artem\documents\visual studio 2012\Projects\Indiv1\Indiv1\obj\Debug\Indiv1.csprojResolveAssemblyReference.cache
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\bin\Debug\Indiv1.exe.config
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\obj\Debug\Indiv1.exe
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\obj\Debug\Indiv1.pdb
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\bin\Debug\Indiv1.exe
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\bin\Debug\Indiv1.pdb
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\obj\Debug\Indiv1.csprojResolveAssemblyReference.cache
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\obj\Debug\Indiv1.Form1.resources
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\obj\Debug\Indiv1.Properties.Resources.resources
+G:\Programming\Анализ и обработка изображений\Indiv1\Indiv1\obj\Debug\Indiv1.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\bin\Debug\Indiv4.exe.config
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\obj\Debug\Indiv4.csprojResolveAssemblyReference.cache
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\obj\Debug\Indiv4.Form1.resources
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\obj\Debug\Indiv4.Properties.Resources.resources
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\obj\Debug\Indiv4.csproj.GenerateResource.Cache
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\bin\Debug\Indiv4.exe
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\bin\Debug\Indiv4.pdb
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\obj\Debug\Indiv4.exe
+C:\Users\ash\Documents\Visual Studio 2012\Indiv4\Indiv4\obj\Debug\Indiv4.pdb

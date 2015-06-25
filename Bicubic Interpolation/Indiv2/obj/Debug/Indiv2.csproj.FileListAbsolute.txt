@@ -1,0 +1,27 @@
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\bin\Debug\Indiv2.exe.config
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\bin\Debug\Indiv2.exe
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\bin\Debug\Indiv2.pdb
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\obj\Debug\Indiv2.csprojResolveAssemblyReference.cache
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\obj\Debug\Indiv2.Form1.resources
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\obj\Debug\Indiv2.Properties.Resources.resources
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\obj\Debug\Indiv2.csproj.GenerateResource.Cache
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\obj\Debug\Indiv2.exe
+C:\Users\ash\Documents\Visual Studio 2012\Indiv2\Indiv2\obj\Debug\Indiv2.pdb
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\bin\Debug\Indiv2.exe.config
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\obj\Debug\Indiv2.exe
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\obj\Debug\Indiv2.pdb
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\bin\Debug\Indiv2.exe
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\bin\Debug\Indiv2.pdb
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\obj\Debug\Indiv2.csprojResolveAssemblyReference.cache
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\obj\Debug\Indiv2.Form1.resources
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\obj\Debug\Indiv2.Properties.Resources.resources
+C:\Users\artem\Documents\Visual Studio 2012\Projects\Indiv2\Indiv2\obj\Debug\Indiv2.csproj.GenerateResource.Cache
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\bin\Debug\Indiv2.exe.config
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\obj\Debug\Indiv2.exe
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\obj\Debug\Indiv2.pdb
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\bin\Debug\Indiv2.exe
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\bin\Debug\Indiv2.pdb
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\obj\Debug\Indiv2.csprojResolveAssemblyReference.cache
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\obj\Debug\Indiv2.Form1.resources
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\obj\Debug\Indiv2.Properties.Resources.resources
+G:\Programming\Анализ и обработка изображений\Indiv2\Indiv2\obj\Debug\Indiv2.csproj.GenerateResource.Cache
