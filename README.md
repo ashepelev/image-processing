@@ -1,5 +1,6 @@
 # image-processing
 Projects on image processing inc OpenCV
+
 Bicubic Interpolation - a C# project devoted to image scaling based on bicubic operations
 
 Grab Cut - a Python project devoted to image segmentation. Based on selecting the foreground and background regions.
