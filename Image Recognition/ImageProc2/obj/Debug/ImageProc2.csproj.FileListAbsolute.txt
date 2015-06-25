@@ -1,0 +1,21 @@
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\bin\Debug\ImageProc2.exe.config
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\bin\Debug\ImageProc2.exe
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\bin\Debug\ImageProc2.pdb
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\obj\Debug\ImageProc2.csprojResolveAssemblyReference.cache
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\obj\Debug\ImageProc2.Form1.resources
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\obj\Debug\ImageProc2.Properties.Resources.resources
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\obj\Debug\ImageProc2.csproj.GenerateResource.Cache
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\obj\Debug\ImageProc2.exe
+c:\users\artem\documents\visual studio 2012\Projects\ImageProc2\ImageProc2\obj\Debug\ImageProc2.pdb
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\bin\Debug\ImageProc2.exe.config
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\obj\Debug\ImageProc2.exe
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\obj\Debug\ImageProc2.pdb
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\bin\Debug\ImageProc2.exe
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\bin\Debug\ImageProc2.pdb
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\obj\Debug\ImageProc2.csprojResolveAssemblyReference.cache
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\obj\Debug\ImageProc2.Form1.resources
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\obj\Debug\ImageProc2.Properties.Resources.resources
+G:\Programming\распозн изобр Белявский\ImageProc2\ImageProc2\obj\Debug\ImageProc2.csproj.GenerateResource.Cache
+C:\Users\ash\Documents\image-processing\Image Recognition\ImageProc2\bin\Debug\ImageProc2.exe.config
+C:\Users\ash\Documents\image-processing\Image Recognition\ImageProc2\obj\Debug\ImageProc2.exe
+C:\Users\ash\Documents\image-processing\Image Recognition\ImageProc2\obj\Debug\ImageProc2.pdb

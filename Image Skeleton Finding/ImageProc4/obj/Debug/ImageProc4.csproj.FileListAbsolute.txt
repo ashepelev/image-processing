@@ -1,0 +1,16 @@
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\bin\Debug\ImageProc4.exe.config
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\obj\Debug\ImageProc4.Form1.resources
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\obj\Debug\ImageProc4.Properties.Resources.resources
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\obj\Debug\ImageProc4.csproj.GenerateResource.Cache
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\bin\Debug\ImageProc4.exe
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\bin\Debug\ImageProc4.pdb
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\obj\Debug\ImageProc4.exe
+C:\Users\ash\Documents\Visual Studio 2012\ImageProc4\ImageProc4\obj\Debug\ImageProc4.pdb
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\bin\Debug\ImageProc4.exe.config
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\obj\Debug\ImageProc4.exe
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\obj\Debug\ImageProc4.pdb
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\bin\Debug\ImageProc4.exe
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\bin\Debug\ImageProc4.pdb
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\obj\Debug\ImageProc4.Form1.resources
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\obj\Debug\ImageProc4.Properties.Resources.resources
+G:\Programming\распозн изобр Белявский\ImageProc4\ImageProc4\obj\Debug\ImageProc4.csproj.GenerateResource.Cache

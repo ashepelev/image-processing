@@ -1,0 +1,138 @@
+lines.Add(String.Format("Digit {0}. Start...",digit));
+            richTextBox1.Lines = lines.ToArray();
+            double minw = int.MaxValue;
+            int mininum = 0;
+            int minjnum = 0;
+                for (int i = 0; i < 10; ++i)
+                    for (int j = 0; j < SAMPLE_COUNT; ++j)
+                    {
+                        if (i == digit)
+                            continue;
+                        double[] W = createW(digit,i,j);
+                        double curw = 0;
+                        for (int k = 0; k < ELEMS; ++k)
+                        {
+                            curw += W[k] * W[k];
+                        }
+                        curw = Math.Sqrt(curw);
+                        if (curw < minw)
+                        {
+                            minw = curw;
+                            mininum = i;
+                            minjnum = j;
+                        }
+                    }
+            double[] L = createW(digit,mininum,minjnum);
+            double[] finalL = L;
+            double minL = minw;
+            int minLiter = int.MaxValue;
+            int iternum = 0;
+            double prevlambda = int.MinValue;
+            int lambdaeq = 0;
+            bool lambdastab = false;
+            for (int k = 0; k < 10; ++k)
+            {
+                if (lambdastab)
+                    break;
+                for (int i = 0; i < SAMPLE_COUNT; ++i)
+                {
+                    if (k == digit)
+                        continue;
+                    double lambda = 0;
+                    double sum = 0;
+                    double[] W = createW(digit, k, i);
+                    for (int j = 0; j < ELEMS; ++j)
+                        sum += W[j] * W[j] - L[j] * W[j];
+                    lambda = sum;
+                    sum = 0;
+                    for (int j = 0; j < ELEMS; ++j)
+                        sum += L[j] * L[j] - 2 * L[j] * W[j] + W[j] * W[j];
+                    lambda /= sum;
+                    if (i == 0)
+                        prevlambda = lambda;
+                    //       lines.Add(String.Format("Iter {0}: Lambda = {1}", iternum, lambda));
+                    //       richTextBox1.Lines = lines.ToArray();
+                    ++iternum;
+                    if (lambda > 0 && lambda < 1)
+                    {
+                        double curL = 0;
+                        for (int j = 0; j < ELEMS; ++j)
+                        {
+                            L[j] = L[j] * lambda + (1 - lambda) * W[j];
+                            curL += L[j] * L[j];
+                        }
+                        curL = Math.Sqrt(curL);
+                        if (curL < minL)
+                        {
+                            minL = curL;
+                            finalL = (double[])L.Clone();
+                            minLiter = i;
+                        }
+                    }
+                    if (lambda > 1)
+                        ++lambdaeq;
+                    else
+                        if (lambdaeq > 0)
+                            lambdaeq = 0;
+                    if (lambdaeq == 5)
+                    {
+                        lines.Add(String.Format("Lambda stabilized"));
+                        richTextBox1.Lines = lines.ToArray();
+                        lambdastab = true;
+                        break;
+                    }
+                    prevlambda = lambda;
+                }
+            }
+     /*       if (lambdaeq < 5)
+            {
+                lines.Add(String.Format("Run out of samples"));
+                richTextBox1.Lines = lines.ToArray();
+                return;
+            }*/
+        //    solves[digit] = new solve();
+            solves[digit].vector = finalL;
+            //     drawTriangles(upper[minLiter].center, downer[minLiter].center);
+            lines.Add(String.Format("Minimal L length: {0} at iter {1}", minL, minLiter));
+            lines.Add("\n");
+            richTextBox1.Lines = lines.ToArray();
+            double maxcosy = int.MinValue;
+            double mincosx = int.MaxValue;
+            double maxcosx = int.MinValue;
+            for (int i = 0; i < SAMPLE_COUNT; ++i)
+            {
+                double prodx = 0, prody = 0;
+                int count = 0;
+                for (int j = 0; j < ELEMS; ++j)
+                {
+                    prodx += finalL[j] * digits[digit, i].matr[j / MATRIX_SIZE, j % MATRIX_SIZE];
+                        
+                }
+                for (int k = 0; k < 10; ++k)
+                {
+                    if (k == digit)
+                        continue;
+                    for (int j = 0; j < ELEMS; ++j)
+                        prody += finalL[j] * digits[k, i].matr[j / MATRIX_SIZE, j % MATRIX_SIZE];
+                }
+
+                //     prodx /= minL;
+                //     prody /= minL;
+                if (prody > maxcosy)
+                    maxcosy = prody;
+                if (prodx < mincosx)
+                    mincosx = prodx;
+                if (prodx > maxcosx)
+                    maxcosx = prodx;
+
+            }
+            lines.Add(String.Format("Min cos X: {0}", mincosx));
+            lines.Add(String.Format("Max cos Y: {0}", maxcosy));
+            lines.Add("\n");
+            solves[digit].Tetta = (mincosx + maxcosy) / 2.0;
+            solves[digit].maxcosx = maxcosx;
+            solves[digit].mincosx = mincosx;
+            lines.Add(String.Format("Tetta: {0}", solves[digit].Tetta));
+            lines.Add("\n");
+            lines.Add("\n");
+            richTextBox1.Lines = lines.ToArray();
